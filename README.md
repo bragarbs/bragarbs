@@ -1,11 +1,11 @@
 # 👨🏽‍💻 Renan Braga
 
-**`Especialista em Monitoramento e Observabilidade`**
+**`Monitoring and Observability Specialist`**
 
 
 
 ---
-### Tecnologias
+### Technologies
 
 <img
 align="left"
