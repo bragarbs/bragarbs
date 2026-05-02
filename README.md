@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👨🏽‍💻 Renan Braga
 
-<!--
-**bragarbs/bragarbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Especialista em Monitoramento e Observabilidade`**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### Tecnologias
+
+<img 
+align="left"
+alt="Linux"
+title="Linux"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+<img 
+align="left"
+alt="Python"
+title="Python"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+          
+          
