@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Renan Braga
+# Renan Braga
 
 **`Monitoring and Observability Specialist`**
 
