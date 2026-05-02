@@ -2,7 +2,7 @@
 
 **`Monitoring and Observability Specialist`**
 
-
+Hello! My name is Renan, I have 27 years, from Rio de Janeiro and I have 7 years of IT experience.
 
 ---
 ### Technologies
