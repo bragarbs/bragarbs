@@ -2,7 +2,7 @@
 
 **`Monitoring and Observability Specialist`**
 
-Hello! You can call me Renan. I'm working for more than 7 years on the Tech area, passing through several public civil service exams and freelance works. My speciality is to understand modern I.T infrastructure and data to transform in valuable metrics for the company. I specialized in the following areas: <br> <br> 
+Hello! You can call me Renan. I'm working for more than 8 years on the Tech area, passing through several public civil service exams and freelance works. My speciality is to understand modern I.T infrastructure and data to transform in valuable metrics for the company. I specialized in the following areas: <br> <br> 
 Server Virtualization: Optimization and Virtual Environment management for the maximum efficiency.<br> <br> 
 Monitoring (Observability): Management and Configuration of Zabbix for full Monitoring Network assets.<br> <br> 
 Data Visualization: Creation of customized Grafana dashboards by metrics, creating insights for business. I use my experience to maintain the systems and infraestructure up, resilient and point the correct metrics to fast visualization.<br> 
